@@ -1,0 +1,61 @@
+Grant Demone
+Log for PHZ 3150, Fall 2026
+*****IN: Thurs Aug 27 12:19 EST 2026
+Opened Jupyter, started this log, saved as:
+0-phz3150-grant_demone.log
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name: Grant Demone
+Email: gr946774@ucf.edu
+Phone: 561-822-7368
+Major: Optics and Photonics
+Year: 2029
+ID: 5726229
+How did you hear about this course? It was a recomendation from my advisor
+Do you have a laptop you can bring to class, install software on, etc.? Yes
+What operating system and version does it run? Windows 11
+How much free disk space does it have? 800GB
+What operating systems are you comfortable working in? Windows
+What computer classes have you taken, including high school,
+extracurricular, etc.? None until now
+Have you ever programmed a computer? No
+In what language(s)? N/A
+Summarize your experience: N/A
+Have you taken statistics or probability? No
+Why are you taking this course? It was a recomendation from my advisor, and I belive its required for my major
+Are there particular topics you hope to learn? I want to become more comfortable with Python
+If you have worked with scientific data or modeling before, briefly
+describe your experience: N/A
+Have you ever been involved with a science club or similar? If so,
+describe: No
+
+Took a screenshot of Jupyter using the windows snipping tool for hw1 problem 2
+Saved the screenshot in my hw1_grant_demone folder
+
+My python version:
+3.14.6
+
+Took a screenshot of Github Desktop using the windows snipping tool for hw1 prob2
+Saved the screenshot in my hw1_grant_demone folder
+*****OUT: Mon Thurs Aug 27 12:50 EST 2026
+
+*****IN: Thurs Sept 03 1:19 EST 2026
+
+created hw2_GrantDemone folder to start hw2 as instructed by problem 1
+correct syntax but incorrect characters:
+Mÿ nąℳ€ is ௹rąnt.
+incorrect syntax, correct characters:
+Grant is, name
+
+Did some research to be able to answer the next question correctly
+Q: What main “feature” of natural languages prevents their use (so far) as programming languages, and why?
+A: From what I read, the main feature of natural languages that prevents their use as programming languages is ambiguity. In natural languages many words have multiple meanings and are meant to be interpreted in many ways, but in programming, it is crucial that there is no ambiguity to ensure that the code does exactly what it is intended to do.
+
+starting problem 2
+opening the GitHub hello world tutorial
+opening GitHub desktop
+created the "hello-world" repository
+created the "readme-branch" branch
+edited and commited changed to the README.md file
+
+*****OUT: Thurs Sept 03 1:56 EST 2026
